@@ -23,4 +23,4 @@ Implement based on NumPy and PyTorch, with
 
 Model been used to content generate. Since it's been trained at financial discourse, the generated text had stay on that domain.
 
-And we analyzing the model performance based on the intrinsic property: Perplexity. 
+And we analyzing the model performance based on the intrinsic property: **Perplexity**. 
